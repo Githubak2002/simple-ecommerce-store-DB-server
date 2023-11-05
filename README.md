@@ -1,5 +1,5 @@
 # Ecommerce - store   Redux-DB-server
-# <a href='https://ak-redux-store.netlify.app' target='blank'> Live Demo → </a>
+# <a href='https://ak-redux-store.netlify.app' target="blank"> Live Demo → </a>
 
 
 An Ecommerce store using -
