@@ -1,0 +1,16 @@
+phone collections → https://jsonserver.reactbd.com/amazonpro/category/phone
+
+watch collections → https://jsonserver.reactbd.com/amazonpro/category/watch
+
+https://jsonserver.reactbd.com/amazonpro/category/accessories
+
+
+
+
+====== main API → https://jsonserver.reactbd.com/amazonpro   ======
+
+
+
+
+
+
