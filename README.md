@@ -11,4 +11,6 @@ An Ecommerce store using -
   <li>Animated Loader</li>
 </ul>
 
+Live at - https://ak-redux-store.netlify.app
+
 NOTE AK → Only Frontend folder also give a fully functional website when getting all the data from → constant.js - dataArr  
